@@ -9,7 +9,8 @@ MLSNews，《未闻》，未来实验室新闻工作室，关注区块链技术�
 
 * **【政策】：** [G20准备规范加密资产]()
 
-* **【观点】：** [区块链的共识可分为架构层、政治层与生态层]()
+* **【观点】：** [区块链的共识可分为架构层、政治层与生态层](https://github.com/futurelabs2018/MLSNews/blob/master/DailyNews/20190419.md)
+
 --------
 
 For more details see [MLSNews.github.io](https://MLSNews.github.io).
